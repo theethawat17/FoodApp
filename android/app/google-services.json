@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "33694523887",
+    "project_id": "test-950bf",
+    "storage_bucket": "test-950bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33694523887:android:1720cced13140f499e561a",
+        "android_client_info": {
+          "package_name": "com.example.mibile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-c4hOPBcdVjWQQRBBqVKNbuc5Zmichs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33694523887:android:fd859ce3ea7437359e561a",
+        "android_client_info": {
+          "package_name": "com.teefunny.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-c4hOPBcdVjWQQRBBqVKNbuc5Zmichs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

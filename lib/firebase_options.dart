@@ -52,7 +52,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAg-c4hOPBcdVjWQQRBBqVKNbuc5Zmichs',
-    appId: '1:33694523887:android:fd859ce3ea7437359e561a',
+    appId: '1:33694523887:android:1720cced13140f499e561a',
     messagingSenderId: '33694523887',
     projectId: 'test-950bf',
     storageBucket: 'test-950bf.firebasestorage.app',
@@ -60,20 +60,20 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyApzSxLnEKAr1b33VyedejX14uj8_E_W8E',
-    appId: '1:33694523887:ios:cb5a629ba8df7ee09e561a',
+    appId: '1:33694523887:ios:bf3c06718e39cb409e561a',
     messagingSenderId: '33694523887',
     projectId: 'test-950bf',
     storageBucket: 'test-950bf.firebasestorage.app',
-    iosBundleId: 'com.example.flutterApplication1',
+    iosBundleId: 'com.example.mibileApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyApzSxLnEKAr1b33VyedejX14uj8_E_W8E',
-    appId: '1:33694523887:ios:cb5a629ba8df7ee09e561a',
+    appId: '1:33694523887:ios:bf3c06718e39cb409e561a',
     messagingSenderId: '33694523887',
     projectId: 'test-950bf',
     storageBucket: 'test-950bf.firebasestorage.app',
-    iosBundleId: 'com.example.flutterApplication1',
+    iosBundleId: 'com.example.mibileApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'test-950bf.firebasestorage.app',
     measurementId: 'G-9P3VT18HVR',
   );
+
 }
