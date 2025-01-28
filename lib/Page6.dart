@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'page7.dart'; // Import Page4
+import 'Page7.dart'; // Import Page4
 
 class Page6 extends StatelessWidget {
   final String title;
