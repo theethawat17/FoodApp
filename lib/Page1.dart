@@ -1,7 +1,7 @@
 
 // ignore_for_file: file_names
 
-import 'package:flutter/material.dart';
+
 
 class Page1 extends StatelessWidget {
   final String title;
