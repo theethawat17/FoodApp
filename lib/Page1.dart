@@ -181,6 +181,6 @@ class Page1 extends StatelessWidget {
           const Text('ของว่างที่ชอบ'),
         ],
       ),
-    )
+    );
   }
 }
